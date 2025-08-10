@@ -1,8 +1,7 @@
 ![logo](https://github.com/vaishnavisinnur/vaishnavisinnur/blob/main/github-banner.png)
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Next-Gen Safety Platform***  
+ 
 <br><br>
 👯 **I’m looking to collaborate on:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Full-Stack Web Development & AI Projects***  
