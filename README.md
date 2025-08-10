@@ -15,7 +15,8 @@ I am an MCA candidate with a strong foundation in software development, modern w
 Known for my ability to embrace change, I excel in collaborative environments that challenge me to think creatively and solve problems effectively. My interests lie in front-end design, back-end architecture, and emerging technologies that bridge functionality with user experience. I am committed to continuous learning, staying curious, and bringing a positive, driven mindset to every project I undertake.
 
 
-# 💻 Core Tech Stack
+# 💻  Tech Stack
+
 <table>
 <tr>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br><b>HTML5</b></td>
@@ -23,12 +24,14 @@ Known for my ability to embrace change, I excel in collaborative environments th
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br><b>JavaScript</b></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br><b>Java</b></td>
 </tr>
+
 <tr>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br><b>React</b></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br><b>Angular</b></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br><b>Node.js</b></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br><b>Spring Boot</b></td>
 </tr>
+
 <tr>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br><b>MySQL</b></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br><b>Git</b></td>
@@ -38,6 +41,7 @@ Known for my ability to embrace change, I excel in collaborative environments th
 </table>
 
 ---
+
 
 [![](https://visitcount.itsvg.in/api?id=vaishnavisinnur&icon=0&color=0)](https://visitcount.itsvg.in)
 
