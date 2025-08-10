@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">✨ Hey there, I'm Vaishnavi Sinnur ✨</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Emerging Tech Innovator</h3>
+<h3 align="center"> Adaptable Tech Enthusiast with a Passion for Problem-Solving</h3>
 
 <p align="center">
   <a href="https://github.com/vaishnavisinnur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -10,10 +10,9 @@
 ---
 
 ## 💡 About Me
-I’m an **aspiring Full-Stack Developer** who believes technology should be both **functional** and **beautiful**.  
-From **pixel-perfect UIs** to **scalable backend systems**, I thrive on creating solutions that make a difference.  
-Coding isn’t just my profession — it’s my playground.
+I am an MCA candidate with a strong foundation in software development, modern web technologies, and scalable system design. My journey has been shaped by leading college initiatives, excelling in competitive sports, and taking on diverse responsibilities that have honed my adaptability, leadership, and teamwork.
 
+Known for my ability to embrace change, I excel in collaborative environments that challenge me to think creatively and solve problems effectively. My interests lie in front-end design, back-end architecture, and emerging technologies that bridge functionality with user experience. I am committed to continuous learning, staying curious, and bringing a positive, driven mindset to every project I undertake.
 ---
 
 ## 🚀 Tech Stack
