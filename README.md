@@ -31,10 +31,8 @@ but also **delight users** and **solve real-world problems**.
 ---
 
 ## 🎯 My Current Focus
-I’m currently focused on **sharpening my skills** through academic and personal projects that bridge theory with **real-world applications**.  
-Exploring **modern frameworks, scalable architectures, and clean code practices** is my way of preparing for future challenges in the tech industry.
+Focused on transitioning into an SDE role in the IT industry, I am continually sharpening my skills through immersive, mentor-led learning by Airtribe. With a drive to solve real-world problems and a commitment to delivering meaningful results, I aim to make a lasting impact in every environment I work in."
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
