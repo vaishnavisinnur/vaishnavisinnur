@@ -23,7 +23,7 @@ Coding isn’t just my profession — it’s my playground.
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 ### 🔒 **InvisiLock**
 A security-focused web application with:
 - **File Encryption**
@@ -35,10 +35,6 @@ A security-focused web application with:
 ✔️ Easy-to-use Interface  
 ✔️ Multi-layer Security  
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Project+Screenshot" alt="InvisiLock Screenshot"/>
-</p>
-
 ---
 
 ## 📖 My Coding Story
@@ -46,20 +42,6 @@ I still remember the first time I got a "Hello, World!" to print —
 it felt like **unlocking a superpower**.  
 Since then, I’ve been on a journey to build projects that are not only **technically sound**  
 but also **delight users** and **solve real-world problems**.
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavisinnur&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavisinnur&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📬 Let’s Connect
-💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-sinnur/)  
-🌐 [GitHub](https://github.com/vaishnavisinnur)  
 
 ---
 
