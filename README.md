@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">✨ Hey there, I'm Vaishnavi Sinnur ✨</h1>
-<h3 align="center"> Adaptable Tech Enthusiast with a Passion for Problem-Solving</h3>
+<h1 align="center">✨ Hey there, I'm <span style="color:#ff69b4;">Vaishnavi Sinnur</span> ✨</h1>
+<h3 align="center">Adaptable MCA Candidate | Passionate Problem Solver | Future SDE</h3>
 
 <p align="center">
   <a href="https://github.com/vaishnavisinnur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -10,50 +10,38 @@
 ---
 
 ## 💡 About Me
-I am an MCA candidate with a strong foundation in software development, modern web technologies, and scalable system design. My journey has been shaped by leading college initiatives, excelling in competitive sports, and taking on diverse responsibilities that have honed my adaptability, leadership, and teamwork.
+I’m an **MCA candidate** with a strong foundation in **software development** and a curiosity-driven mindset.  
+My journey has been shaped by **leading college initiatives**, **excelling in sports**, and taking on challenges that strengthened my **teamwork** and **adaptability**.  
 
-Known for my ability to embrace change, I excel in collaborative environments that challenge me to think creatively and solve problems effectively. My interests lie in front-end design, back-end architecture, and emerging technologies that bridge functionality with user experience. I am committed to continuous learning, staying curious, and bringing a positive, driven mindset to every project I undertake.
+💬 I enjoy bridging the gap between **functionality & user experience**, exploring **emerging technologies**, and turning **ideas into impactful solutions**.  
+🌱 Currently refining my skills in **SDE-focused problem-solving** through mentor-led learning at **Airtribe**.
 
+---
 
-# 💻  Tech Stack
-## 💻 Tech Stack  
-
+## 💻 Tech Stack
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Frontend-HTML5%20|%20CSS3%20|%20JavaScript%20|%20React%20|%20Angular-blue?style=for-the-badge&logo=frontendmentor&logoColor=white"/>
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Backend-Java%20|%20Node.js%20|%20Spring%20Boot-green?style=for-the-badge&logo=serverless&logoColor=white"/>
-  
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Tools-Git%20|%20GitHub%20|%20Postman%20|%20REST%20API-purple?style=for-the-badge&logo=tools&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,react,angular,nodejs,spring,mysql,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,java,nodejs,spring,mysql,git,github,postman&perline=6" />
 </p>
 
 ---
 
 ## 📖 My Coding Story
-I still remember the first time I got a "Hello, World!" to print —  
-it felt like **unlocking a superpower**.  
-Since then, I’ve been on a journey to build projects that are not only **technically sound**  
-but also **delight users** and **solve real-world problems**.
+My very first `"Hello, World!"` felt like **unlocking a superpower** —  
+from that moment, I knew I wanted to build things that not only work but **delight users**.  
+Every project I work on is an opportunity to **create, learn, and grow**.
 
 ---
 
-## 🎯 My Current Focus
-Focused on transitioning into an SDE role in the IT industry, I am continually sharpening my skills through immersive, mentor-led learning by Airtribe. With a drive to solve real-world problems and a commitment to delivering meaningful results, I aim to make a lasting impact in every environment I work in."
+## 🎯 Current Focus
+- Preparing for **Software Development Engineer (SDE)** roles
+- Building scalable & maintainable solutions
+- Enhancing **problem-solving skills** through real-world projects
 
+---
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavisinnur&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavisinnur&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavisinnur&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavisinnur&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
