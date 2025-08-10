@@ -13,7 +13,7 @@
 I am an MCA candidate with a strong foundation in software development, modern web technologies, and scalable system design. My journey has been shaped by leading college initiatives, excelling in competitive sports, and taking on diverse responsibilities that have honed my adaptability, leadership, and teamwork.
 
 Known for my ability to embrace change, I excel in collaborative environments that challenge me to think creatively and solve problems effectively. My interests lie in front-end design, back-end architecture, and emerging technologies that bridge functionality with user experience. I am committed to continuous learning, staying curious, and bringing a positive, driven mindset to every project I undertake.
----
+
 
 ## 🚀 Tech Stack
 <p align="center">
