@@ -23,24 +23,6 @@ Coding isn’t just my profession — it’s my playground.
 
 ---
 
-## 📌 Featured Projects
-### 🔒 **InvisiLock**
-A security-focused web application with:
-- **File Encryption**
-- **Image Encryption**
-- **Text Encryption**
-
-**Benefits:**  
-✔️ Enhanced Data Privacy  
-✔️ Easy-to-use Interface  
-✔️ Multi-layer Security  
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Project+Screenshot" alt="InvisiLock Screenshot"/>
-</p>
-
----
-
 ## 📖 My Coding Story
 I still remember the first time I got a "Hello, World!" to print —  
 it felt like **unlocking a superpower**.  
