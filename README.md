@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">✨ Hey there, I'm <span style="color:#ff69b4;">Vaishnavi Sinnur</span> ✨</h1>
-<h3 align="center">Adaptable MCA Candidate | Passionate Problem Solver | Future SDE</h3>
+<h3 align="center"> MCA Candidate |  Problem Solver | SDE</h3>
 
 <p align="center">
   <a href="https://github.com/vaishnavisinnur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
